@@ -28,7 +28,7 @@ Petani mengalami kesulitan dalam mengidentifikasi penyakit tanaman pisang karena
 
 ## 🎯 Tujuan Proyek
 
-Mengembangkan **sistem klasifikasi otomatis** menggunakan deep learning yang dapat mendeteksi **empat jenis utama penyakit daun pisang**.
+Mengembangkan **sistem klasifikasi otomatis** menggunakan deep learning yang dapat mendeteksi **empat jenis utama penyakit pada daun pisang**.
 
 ---
 
@@ -36,7 +36,6 @@ Mengembangkan **sistem klasifikasi otomatis** menggunakan deep learning yang dap
 
 - Memberikan deteksi penyakit tanaman pisang secara cepat dan akurat
 - Membantu petani dalam mengambil tindakan lebih cepat
-- Mengklasifikasikan jenis pisang secara otomatis untuk mendukung keputusan pertanian
 
 ---
 
@@ -50,9 +49,9 @@ Mengembangkan **sistem klasifikasi otomatis** menggunakan deep learning yang dap
 ### Kategori Penyakit:
 
 1. **Sigatoka** (varian hitam dan kuning)
-2. **Penyakit Panama** (*Fusarium Wilt*)
+2. **Penyakit Panama** 
 3. **Cordana Musae**
-4. **Pestalotiopsis sp.** (bercak hitam)
+4. **Pestalotiopsis sp** 
 
 ---
 

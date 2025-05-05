@@ -45,7 +45,7 @@ Mengembangkan **sistem klasifikasi otomatis** menggunakan deep learning yang dap
 - Jumlah gambar: **2.052**
 - Sumber: **Roboflow**
 - Dilakukan augmentasi untuk generalisasi model yang lebih baik
-- Model yang digunakan: **YOLOv8s** (You Only Look Once - versi kecil)
+- Model yang digunakan: **Pre-trained Keras** (DenseNet201, InceptionV3, Resnet50V2)
 
 ### Kategori Penyakit:
 
@@ -58,7 +58,7 @@ Mengembangkan **sistem klasifikasi otomatis** menggunakan deep learning yang dap
 
 ## ⚙️ Alat & Software
 
-- 🧠 Deep Learning: **YOLOv8s**
+- 🧠 Deep Learning: **Pre-Trained**
 - 🧰 Manajemen Dataset: **Roboflow**
 - 💻 Bahasa Pemrograman: **Python**
 - 📱 Aplikasi Mobile: **Android**
@@ -70,3 +70,6 @@ Mengembangkan **sistem klasifikasi otomatis** menggunakan deep learning yang dap
 https://app.roboflow.com/samuel-sitorus/deteksi-penyakit-daun-pisang/browse?queryText=class%3APanama&pageSize=50&startingIndex=150&browseQuery=true 
 
 ---
+
+## Hasil Deteksi
+https://colab.research.google.com/drive/1ePpMrogt88y7kXqFkEF4FLrfkOJi3XRo?authuser=1#scrollTo=_A5dyT8Hb1jP 

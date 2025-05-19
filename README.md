@@ -1,63 +1,83 @@
-🍌 Banana Leaf Disease Classification Using Deep Learning
-👨‍💻 Author: Samuel Sitorus (2155301144)
-📁 Project: Final Project on Computer Vision
-🌿 Background
-Banana plants (Musa spp.) are an important agricultural commodity in various regions. Although they have high economic and nutritional value, these plants are vulnerable to various diseases that can reduce yield and quality.
+# 🍌 Banana Leaf Disease Classification Using Deep Learning
+
+### 👨‍💻 Author: Samuel Sitorus (2155301144)  
+### 📁 Project: Final Project on Computer Vision
+
+---
+
+## 🌿 Background
+
+Banana plants (*Musa spp.*) are an important agricultural commodity in various regions. Although they have high economic and nutritional value, these plants are vulnerable to various diseases that can reduce yield and quality.
 
 Currently, disease identification is still performed manually by farmers, which tends to be:
 
-Subjective
+- Subjective  
+- Time-consuming  
+- Often inaccurate  
 
-Time-consuming
+To address this, a **deep learning-based classification system** is developed to help detect and classify banana leaf diseases quickly and accurately. This system is integrated into an **Android application**.
 
-Often inaccurate
+---
 
-Therefore, the development of a deep learning-based classification system is carried out to help detect and classify banana leaf diseases quickly and accurately. This system is integrated into an Android application.
+## ❓ Problem Statement
 
-❓ Problem Statement
 Farmers face difficulties in identifying banana plant diseases due to:
 
-Limited access to accurate information
+- Limited access to accurate information  
+- Lack of fast diagnostic tools  
 
-Lack of fast diagnostic tools
+---
 
-🎯 Project Objectives
-To develop an automated classification system using deep learning capable of detecting four major types of banana leaf diseases.
+## 🎯 Project Objectives
 
-🎁 Benefits
-Provides fast and accurate detection of banana plant diseases
+Develop an **automated classification system** using deep learning capable of detecting **four major types of banana leaf diseases**.
 
-Helps farmers take quicker action
+---
 
-🗂️ Dataset Information
-Total images: 2,052
+## 🎁 Benefits
 
-Source: Roboflow
+- Provides fast and accurate detection of banana plant diseases  
+- Helps farmers take timely action  
 
-Augmentation applied for better model generalization
+---
 
-Model used: YOLOV8n
+## 🗂️ Dataset Information
 
-Disease Categories:
-Sigatoka (black and yellow variants)
+- **Total images**: 2,052  
+- **Source**: Roboflow  
+- **Augmentation** applied for better model generalization  
+- **Model used**: YOLOv8n
 
-Panama Disease
+### 🍃 Disease Categories
 
-Cordana Musae
+1. **Sigatoka** (black and yellow variants)  
+2. **Panama Disease**  
+3. **Cordana Musae**  
+4. **Pestalotiopsis sp**  
 
-Pestalotiopsis sp
+---
 
-⚙️ Tools & Software
-🧠 Deep Learning: Pre-Trained
+## ⚙️ Tools & Technologies
 
-🧰 Dataset Management: Roboflow
+- 🧠 Deep Learning: **YOLOv8 (Pre-Trained)**  
+- 🧰 Dataset Management: **Roboflow**  
+- 💻 Language: **Python**  
+- 📱 Mobile App: **Android**  
 
-💻 Programming Language: Python
+---
 
-📱 Mobile Application: Android
+## 📸 Dataset Preview
 
-📸 Dataset
-https://app.roboflow.com/samuel-sitorus/deteksi-penyakit-daun-pisang/browse?queryText=class%3APanama&pageSize=50&startingIndex=150&browseQuery=true
+[🔗 Roboflow Dataset Link](https://app.roboflow.com/samuel-sitorus/deteksi-penyakit-daun-pisang/browse?queryText=class%3APanama&pageSize=50&startingIndex=150&browseQuery=true)
 
-Detection Results
-https://colab.research.google.com/drive/1AY8LoLZuqRVJdz4H4lwNJNbe5-I1Xkwm#scrollTo=ZK-DmC8IawOy
+---
+
+## 🧪 Detection Results (YOLOv8)
+
+[🔗 Google Colab Notebook](https://colab.research.google.com/drive/1AY8LoLZuqRVJdz4H4lwNJNbe5-I1Xkwm#scrollTo=ZK-DmC8IawOy)
+
+---
+
+## 📌 License
+
+This project is for academic purposes under the Computer Vision final project at Politeknik Caltex Riau.

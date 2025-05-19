@@ -1,74 +1,63 @@
-# 🍌 Klasifikasi Penyakit Daun Pisang Menggunakan Deep Learning
+🍌 Banana Leaf Disease Classification Using Deep Learning
+👨‍💻 Author: Samuel Sitorus (2155301144)
+📁 Project: Final Project on Computer Vision
+🌿 Background
+Banana plants (Musa spp.) are an important agricultural commodity in various regions. Although they have high economic and nutritional value, these plants are vulnerable to various diseases that can reduce yield and quality.
 
-### 👨‍💻 Penulis: Samuel Sitorus (2155301144)  
-### 📁 Proyek: Tugas Akhir Computer Vision
+Currently, disease identification is still performed manually by farmers, which tends to be:
 
----
+Subjective
 
-## 🌿 Latar Belakang
+Time-consuming
 
-Tanaman pisang (*Musa spp.*) merupakan komoditas pertanian penting di berbagai wilayah. Meskipun memiliki nilai ekonomi dan gizi yang tinggi, tanaman ini rentan terhadap berbagai penyakit yang dapat menurunkan hasil dan kualitas panen.
+Often inaccurate
 
-Saat ini, identifikasi penyakit masih dilakukan secara manual oleh petani, yang bersifat:
-- Subjektif
-- Memakan waktu
-- Seringkali tidak akurat
+Therefore, the development of a deep learning-based classification system is carried out to help detect and classify banana leaf diseases quickly and accurately. This system is integrated into an Android application.
 
-Oleh karena itu, akan melakukan pengembangan **sistem klasifikasi berbasis deep learning** untuk membantu mendeteksi dan mengklasifikasikan penyakit daun pisang secara cepat dan akurat. Sistem ini diintegrasikan ke dalam **aplikasi Android**.
+❓ Problem Statement
+Farmers face difficulties in identifying banana plant diseases due to:
 
----
+Limited access to accurate information
 
-## ❓ Rumusan Masalah
+Lack of fast diagnostic tools
 
-Petani mengalami kesulitan dalam mengidentifikasi penyakit tanaman pisang karena:
-- Keterbatasan akses informasi akurat
-- Tidak adanya alat diagnosis cepat
+🎯 Project Objectives
+To develop an automated classification system using deep learning capable of detecting four major types of banana leaf diseases.
 
----
+🎁 Benefits
+Provides fast and accurate detection of banana plant diseases
 
-## 🎯 Tujuan Proyek
+Helps farmers take quicker action
 
-Mengembangkan **sistem klasifikasi otomatis** menggunakan deep learning yang dapat mendeteksi **empat jenis utama penyakit pada daun pisang**.
+🗂️ Dataset Information
+Total images: 2,052
 
----
+Source: Roboflow
 
-## 🎁 Manfaat
+Augmentation applied for better model generalization
 
-- Memberikan deteksi penyakit tanaman pisang secara cepat dan akurat
-- Membantu petani dalam mengambil tindakan lebih cepat
+Model used: YOLOV8n
 
----
+Disease Categories:
+Sigatoka (black and yellow variants)
 
-## 🗂️ Informasi Dataset
+Panama Disease
 
-- Jumlah gambar: **2.052**
-- Sumber: **Roboflow**
-- Dilakukan augmentasi untuk generalisasi model yang lebih baik
-- Model yang digunakan: **Pre-trained Keras** (DenseNet201, InceptionV3, Resnet50V2)
+Cordana Musae
 
-### Kategori Penyakit:
+Pestalotiopsis sp
 
-1. **Sigatoka** (varian hitam dan kuning)
-2. **Penyakit Panama** 
-3. **Cordana Musae**
-4. **Pestalotiopsis sp** 
+⚙️ Tools & Software
+🧠 Deep Learning: Pre-Trained
 
----
+🧰 Dataset Management: Roboflow
 
-## ⚙️ Alat & Software
+💻 Programming Language: Python
 
-- 🧠 Deep Learning: **Pre-Trained**
-- 🧰 Manajemen Dataset: **Roboflow**
-- 💻 Bahasa Pemrograman: **Python**
-- 📱 Aplikasi Mobile: **Android**
+📱 Mobile Application: Android
 
----
+📸 Dataset
+https://app.roboflow.com/samuel-sitorus/deteksi-penyakit-daun-pisang/browse?queryText=class%3APanama&pageSize=50&startingIndex=150&browseQuery=true
 
-## 📸 Dataset
-
-https://app.roboflow.com/samuel-sitorus/deteksi-penyakit-daun-pisang/browse?queryText=class%3APanama&pageSize=50&startingIndex=150&browseQuery=true 
-
----
-
-## Hasil Deteksi
-https://colab.research.google.com/drive/1ePpMrogt88y7kXqFkEF4FLrfkOJi3XRo?authuser=1#scrollTo=_A5dyT8Hb1jP 
+Detection Results
+https://colab.research.google.com/drive/1AY8LoLZuqRVJdz4H4lwNJNbe5-I1Xkwm#scrollTo=ZK-DmC8IawOy

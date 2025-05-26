@@ -69,7 +69,7 @@ Develop an **automated classification system** using deep learning capable of de
 
 ## 📸 Dataset Preview
 
-[🔗 Roboflow Dataset Link](https://colab.research.google.com/drive/1wF8zlaBfKFcMH2kM72jkHErUiKqgJTiJ?usp=sharing)
+[🔗 Roboflow Dataset Link](https://universe.roboflow.com/bananalyze/bananalyze/browse?queryText=class%3AFusarium+sort%3Aoldest&pageSize=50&startingIndex=0&browseQuery=true)
 
 ---
 

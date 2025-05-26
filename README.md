@@ -69,7 +69,7 @@ Develop an **automated classification system** using deep learning capable of de
 
 ## 📸 Dataset Preview
 
-[🔗 Roboflow Dataset Link](https://app.roboflow.com/samuel-sitorus/bananalyze-bypho/browse?queryText=-class%3APestalotiopsis+class%3AFusarium&pageSize=50&startingIndex=0&browseQuery=true)
+[🔗 Roboflow Dataset Link](https://colab.research.google.com/drive/1wF8zlaBfKFcMH2kM72jkHErUiKqgJTiJ?usp=sharing)
 
 ---
 

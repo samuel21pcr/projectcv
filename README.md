@@ -63,7 +63,7 @@ Mengembangkan sistem klasifikasi otomatis menggunakan deep learning yang mampu m
 - 🧠 Deep Learning: **YOLOv8 (Pre-Trained)**  
 - 🧰 Manajemen Dataset: **Roboflow**  
 - 💻 Bahasa Pemrograman: **Python**  
-- 📱 Aplikasi Mobile: **Android**  
+- 📱 Aplikasi Website: **Website**  
 
 ---
 

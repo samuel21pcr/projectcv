@@ -74,7 +74,7 @@ Develop an **automated classification system** using deep learning capable of de
 
 ## 🧪 Detection Results (YOLOv8)
 
-[🔗 Google Colab Notebook]([https://colab.research.google.com/drive/1AY8LoLZuqRVJdz4H4lwNJNbe5-I1Xkwm#scrollTo=ZK-DmC8IawOy](https://colab.research.google.com/drive/1wF8zlaBfKFcMH2kM72jkHErUiKqgJTiJ?usp=sharing))
+[🔗 Google Colab Notebook](https://colab.research.google.com/drive/1wF8zlaBfKFcMH2kM72jkHErUiKqgJTiJ?usp=sharing)
 
 ---
 

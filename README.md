@@ -81,3 +81,8 @@ Develop an **automated classification system** using deep learning capable of de
 ## 📌 License
 
 This project is for academic purposes under the Computer Vision final project at Politeknik Caltex Riau.
+
+
+## Bukti Test
+![image](https://github.com/user-attachments/assets/6ba805ce-0c3c-4f33-b1dd-42abf7d53087)
+

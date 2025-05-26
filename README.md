@@ -54,7 +54,6 @@ Develop an **automated classification system** using deep learning capable of de
 2. **Panama**  
 3. **Cordana Musae**  
 4. **Pestalotiopsis sp**
-5. **Fusarium** 
 
 ---
 

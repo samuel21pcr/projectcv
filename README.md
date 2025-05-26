@@ -51,9 +51,10 @@ Develop an **automated classification system** using deep learning capable of de
 ### 🍃 Disease Categories
 
 1. **Sigatoka** (black and yellow variants)  
-2. **Panama Disease**  
+2. **Panama**  
 3. **Cordana Musae**  
-4. **Pestalotiopsis sp**  
+4. **Pestalotiopsis sp**
+5. **Fusarium** 
 
 ---
 
@@ -83,6 +84,6 @@ Develop an **automated classification system** using deep learning capable of de
 This project is for academic purposes under the Computer Vision final project at Politeknik Caltex Riau.
 
 
-## Bukti Test
+## Testing
 ![image](https://github.com/user-attachments/assets/6ba805ce-0c3c-4f33-b1dd-42abf7d53087)
 

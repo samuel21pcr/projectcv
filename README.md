@@ -84,5 +84,5 @@ This project is for academic purposes under the Computer Vision final project at
 
 
 ## Testing
-![image](![image](https://github.com/user-attachments/assets/70b81d10-9a8c-4627-958c-4f76b66614fa)
+![image](https://github.com/user-attachments/assets/70b81d10-9a8c-4627-958c-4f76b66614fa)
 )

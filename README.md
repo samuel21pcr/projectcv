@@ -74,7 +74,7 @@ Develop an **automated classification system** using deep learning capable of de
 
 ## 🧪 Detection Results (YOLOv8)
 
-[🔗 Google Colab Notebook](https://colab.research.google.com/drive/1wF8zlaBfKFcMH2kM72jkHErUiKqgJTiJ?usp=sharing)
+[🔗 Google Colab Notebook](https://colab.research.google.com/drive/1ffOnkqYF_Vdbm8NS1PYGjrXynm51k7BJ?usp=sharing)
 
 ---
 
@@ -84,4 +84,5 @@ This project is for academic purposes under the Computer Vision final project at
 
 
 ## Testing
-![image](https://github.com/user-attachments/assets/6ba805ce-0c3c-4f33-b1dd-42abf7d53087)
+![image](![image](https://github.com/user-attachments/assets/70b81d10-9a8c-4627-958c-4f76b66614fa)
+)

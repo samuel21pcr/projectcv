@@ -43,7 +43,7 @@ Develop an **automated classification system** using deep learning capable of de
 
 ## 🗂️ Dataset Information
 
-- **Total images**: 2,052  
+- **Total images**: 4,237
 - **Source**: Roboflow  
 - **Augmentation** applied for better model generalization  
 - **Model used**: YOLOv8n
@@ -51,7 +51,7 @@ Develop an **automated classification system** using deep learning capable of de
 ### 🍃 Disease Categories
 
 1. **Sigatoka** (black and yellow variants)  
-2. **Panama**  
+2. **Panama (Fusarium Wilt)**  
 3. **Cordana Musae**  
 4. **Panama Disease**
 
@@ -62,7 +62,7 @@ Develop an **automated classification system** using deep learning capable of de
 - 🧠 Deep Learning: **YOLOv8 (Pre-Trained)**  
 - 🧰 Dataset Management: **Roboflow**  
 - 💻 Language: **Python**  
-- 📱 Mobile App: **Android**  
+- 📱 Web App: **Gradio**  
 
 ---
 

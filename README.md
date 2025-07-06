@@ -50,7 +50,7 @@ Develop an **automated classification system** using deep learning capable of de
 
 ### 🍃 Disease Categories
 
-1. **Sigatoka** (black and yellow variants)  
+1. **Sigatoka (black and yellow variants)**  
 2. **Panama (Fusarium Wilt)**  
 3. **Cordana Musae**  
 4. **Panama Disease**

@@ -53,7 +53,7 @@ Develop an **automated classification system** using deep learning capable of de
 1. **Sigatoka (black and yellow variants)**  
 2. **Panama (Fusarium Wilt)**  
 3. **Cordana Musae**  
-4. **Panama Disease**
+
 
 ---
 
